@@ -2,26 +2,23 @@
 #///////////////////////////
 # Cocos Creator 3D Project
 #///////////////////////////
-client/library/
-client/temp/
-client/local/
-client/build/
-client/profiles/
-client/native
+library/
+temp/
+local/
+build/
+profiles/
+native
 #//////////////////////////
 # NPM
 #//////////////////////////
-client/node_modules/
-server/node_modules/
+node_modules/
 
 #//////////////////////////
 # VSCode
 #//////////////////////////
-client/.vscode/
-server/.vscode/
+.vscode/
 
 #//////////////////////////
 # WebStorm
 #//////////////////////////
-client/.idea/
-server/.idea/
+.idea/

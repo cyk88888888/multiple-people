@@ -1,0 +1,312 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "2ed96": {
+      "importer": "gltf-mesh",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@2ed96",
+      "displayName": "",
+      "id": "2ed96",
+      "name": "javelin01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.8
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cf5ee": {
+      "importer": "gltf-animation",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@cf5ee",
+      "displayName": "",
+      "id": "cf5ee",
+      "name": "run.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0.8,
+          "to": 1.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "989ed": {
+      "importer": "gltf-animation",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@989ed",
+      "displayName": "",
+      "id": "989ed",
+      "name": "attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 1.5333333333333334,
+          "to": 2.2
+        },
+        "events": [
+          {
+            "frame": 0.3,
+            "func": "",
+            "params": []
+          },
+          {
+            "frame": 0.3,
+            "func": "triggerEffect",
+            "params": []
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ee525": {
+      "importer": "gltf-animation",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@ee525",
+      "displayName": "",
+      "id": "ee525",
+      "name": "win.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 2.2,
+          "to": 2.8
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5b2e9": {
+      "importer": "gltf-animation",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@5b2e9",
+      "displayName": "",
+      "id": "5b2e9",
+      "name": "died.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 2.8,
+          "to": 4.125
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 6
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab717": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@ab717",
+      "displayName": "",
+      "id": "ab717",
+      "name": "javelin01.jpg.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eb794": {
+      "importer": "texture",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@eb794",
+      "displayName": "",
+      "id": "eb794",
+      "name": "贴图 #5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@ab717"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a47c6": {
+      "importer": "gltf-material",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@a47c6",
+      "displayName": "",
+      "id": "a47c6",
+      "name": "Material #6.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "665d9": {
+      "importer": "gltf-scene",
+      "uuid": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@665d9",
+      "displayName": "",
+      "id": "665d9",
+      "name": "javelin01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "javelin01.jpg",
+        "uri": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@ab717"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4.125,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 0.8,
+            "wrapMode": 2
+          },
+          {
+            "name": "run",
+            "from": 0.8,
+            "to": 1.5,
+            "wrapMode": 2
+          },
+          {
+            "name": "attack",
+            "from": 1.5333333333333334,
+            "to": 2.2,
+            "wrapMode": 2
+          },
+          {
+            "name": "win",
+            "from": 2.2,
+            "to": 2.8,
+            "wrapMode": 2
+          },
+          {
+            "name": "died",
+            "from": 2.8,
+            "to": 4.125,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e8fe9966-5f03-4cc0-ad69-01d536be6c21@665d9",
+    "assetFinder": {
+      "meshes": [
+        "e8fe9966-5f03-4cc0-ad69-01d536be6c21@2ed96"
+      ],
+      "skeletons": [
+        "e8fe9966-5f03-4cc0-ad69-01d536be6c21@438fe"
+      ],
+      "textures": [
+        "e8fe9966-5f03-4cc0-ad69-01d536be6c21@eb794"
+      ],
+      "materials": [
+        "e8fe9966-5f03-4cc0-ad69-01d536be6c21@a47c6"
+      ],
+      "scenes": [
+        "e8fe9966-5f03-4cc0-ad69-01d536be6c21@665d9"
+      ]
+    },
+    "dumpMaterials": false,
+    "legacyFbxImporter": true,
+    "materialDumpDir": "db://assets/resources/subPackage/model/javelin/Materials_javelin01"
+  }
+}

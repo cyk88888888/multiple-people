@@ -1,0 +1,11 @@
+{
+  "name": "multiple-people-fighting",
+  "uuid": "dadee8ff-0d74-47dd-b947-a7f6c2e85ac7",
+  "version": "3.4.2",
+  "creator": {
+    "version": "3.4.2"
+  },
+  "dependencies": {
+    "tsrpc-browser": "^3.1.3"
+  }
+}
