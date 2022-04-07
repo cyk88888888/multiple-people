@@ -1,4 +1,5 @@
 {
+  "__version__": "1.0.5",
   "modules": {
     "includeModules": [
       "2d",
