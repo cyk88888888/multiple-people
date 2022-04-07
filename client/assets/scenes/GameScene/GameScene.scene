@@ -36,11 +36,11 @@
     "_active": true,
     "_components": [],
     "_prefab": {
-      "__id__": 79
+      "__id__": 81
     },
     "autoReleaseAssets": false,
     "_globals": {
-      "__id__": 82
+      "__id__": 84
     },
     "_id": "0d3889f6-dc9c-424e-b8cd-6fa78d63af15"
   },
@@ -783,22 +783,22 @@
         "__id__": 48
       },
       {
-        "__id__": 65
+        "__id__": 67
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 75
-      },
-      {
-        "__id__": 76
-      },
-      {
         "__id__": 77
       },
       {
         "__id__": 78
+      },
+      {
+        "__id__": 79
+      },
+      {
+        "__id__": 80
       }
     ],
     "_prefab": null,
@@ -970,6 +970,12 @@
       },
       {
         "__id__": 63
+      },
+      {
+        "__id__": 65
+      },
+      {
+        "__id__": 66
       }
     ],
     "removedComponents": []
@@ -1115,6 +1121,26 @@
     ]
   },
   {
+    "__type__": "CCPropertyOverrideInfo",
+    "targetInfo": {
+      "__id__": 60
+    },
+    "propertyPath": [
+      "_active"
+    ],
+    "value": true
+  },
+  {
+    "__type__": "CCPropertyOverrideInfo",
+    "targetInfo": {
+      "__id__": 64
+    },
+    "propertyPath": [
+      "_active"
+    ],
+    "value": true
+  },
+  {
     "__type__": "cc.Node",
     "_name": "btnAttack",
     "_objFlags": 0,
@@ -1123,25 +1149,25 @@
     },
     "_children": [
       {
-        "__id__": 66
+        "__id__": 68
       }
     ],
     "_active": true,
     "_components": [
       {
-        "__id__": 69
-      },
-      {
-        "__id__": 70
-      },
-      {
         "__id__": 71
+      },
+      {
+        "__id__": 72
       },
       {
         "__id__": 73
       },
       {
-        "__id__": 74
+        "__id__": 75
+      },
+      {
+        "__id__": 76
       }
     ],
     "_prefab": null,
@@ -1178,16 +1204,16 @@
     "_name": "Label",
     "_objFlags": 512,
     "_parent": {
-      "__id__": 65
+      "__id__": 67
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 67
+        "__id__": 69
       },
       {
-        "__id__": 68
+        "__id__": 70
       }
     ],
     "_prefab": null,
@@ -1224,7 +1250,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 66
+      "__id__": 68
     },
     "_enabled": true,
     "__prefab": null,
@@ -1245,7 +1271,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 66
+      "__id__": 68
     },
     "_enabled": true,
     "__prefab": null,
@@ -1284,7 +1310,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 65
+      "__id__": 67
     },
     "_enabled": true,
     "__prefab": null,
@@ -1305,7 +1331,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 65
+      "__id__": 67
     },
     "_enabled": true,
     "__prefab": null,
@@ -1344,13 +1370,13 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 65
+      "__id__": 67
     },
     "_enabled": true,
     "__prefab": null,
     "clickEvents": [
       {
-        "__id__": 72
+        "__id__": 74
       }
     ],
     "_interactable": true,
@@ -1402,7 +1428,7 @@
     "_duration": 0.1,
     "_zoomScale": 1.2,
     "_target": {
-      "__id__": 65
+      "__id__": 67
     },
     "_id": "96d2z2/TpJ558pTlUMNNUO"
   },
@@ -1421,7 +1447,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 65
+      "__id__": 67
     },
     "_enabled": true,
     "__prefab": null,
@@ -1433,7 +1459,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 65
+      "__id__": 67
     },
     "_enabled": true,
     "__prefab": null,
@@ -1550,7 +1576,7 @@
       "__id__": 4
     },
     "btnAttack": {
-      "__id__": 65
+      "__id__": 67
     },
     "attackPosIndicator": {
       "__id__": 42
@@ -1562,7 +1588,7 @@
     "fileId": "",
     "targetOverrides": [
       {
-        "__id__": 80
+        "__id__": 82
       }
     ],
     "nestedPrefabInstanceRoots": [
@@ -1580,7 +1606,7 @@
   {
     "__type__": "cc.TargetOverrideInfo",
     "source": {
-      "__id__": 78
+      "__id__": 80
     },
     "sourceInfo": null,
     "propertyPath": [
@@ -1590,7 +1616,7 @@
       "__id__": 48
     },
     "targetInfo": {
-      "__id__": 81
+      "__id__": 83
     }
   },
   {
@@ -1602,19 +1628,19 @@
   {
     "__type__": "cc.SceneGlobals",
     "ambient": {
-      "__id__": 83
-    },
-    "shadows": {
-      "__id__": 84
-    },
-    "_skybox": {
       "__id__": 85
     },
-    "fog": {
+    "shadows": {
       "__id__": 86
     },
-    "octree": {
+    "_skybox": {
       "__id__": 87
+    },
+    "fog": {
+      "__id__": 88
+    },
+    "octree": {
+      "__id__": 89
     }
   },
   {
